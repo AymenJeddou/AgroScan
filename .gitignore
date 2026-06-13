@@ -1,0 +1,49 @@
+# Fichiers générés par Dart/Flutter.
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+build/
+
+# Fichiers de configuration des IDE.
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Fichiers sensibles et de configuration locale.
+# NE JAMAIS commiter de clés d'API ou de secrets.
+# Le fichier .env est utilisé pour stocker les variables d'environnement localement.
+.env
+.env.*
+!.env.example
+
+# Clé API Gemini et secrets de build — NE JAMAIS commiter.
+key.env
+*.keystore
+*.jks
+android/key.properties
+
+# Fichiers spécifiques à Android.
+android/app/src/main/res/raw/
+android/local.properties
+android/key.properties
+android/.gradle/
+android/build/
+android/app/build/
+android/gradlew
+android/gradlew.bat
+
+# Fichiers spécifiques à iOS.
+ios/Pods/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/ephemeral/
+ios/.symlinks/
+ios/Runner.xcworkspace/contents.xcworkspacedata
+ios/Runner.xcworkspace/xcshareddata/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcshareddata/
+ios/Runner.xcodeproj/xcuserdata/

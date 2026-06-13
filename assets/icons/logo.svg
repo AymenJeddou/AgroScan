@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <!-- Detection ring -->
+  <circle cx="24" cy="24" r="19" fill="none" stroke="white" stroke-width="3" opacity="0.28"/>
+  <!-- Cardinal ticks -->
+  <line x1="24" y1="2.5" x2="24" y2="9" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <line x1="24" y1="39" x2="24" y2="45.5" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <line x1="2.5" y1="24" x2="9" y2="24" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <line x1="39" y1="24" x2="45.5" y2="24" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <!-- Left legs -->
+  <line x1="16" y1="19" x2="12" y2="16" stroke="white" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="16" y1="24" x2="11" y2="24" stroke="white" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="16" y1="29" x2="12" y2="32" stroke="white" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- Right legs -->
+  <line x1="32" y1="19" x2="36" y2="16" stroke="white" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="32" y1="24" x2="37" y2="24" stroke="white" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="32" y1="29" x2="36" y2="32" stroke="white" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- Antennae -->
+  <line x1="21" y1="15" x2="18.5" y2="11" stroke="white" stroke-width="2.4" stroke-linecap="round"/>
+  <line x1="27" y1="15" x2="29.5" y2="11" stroke="white" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- Bug body -->
+  <ellipse cx="24" cy="25" rx="8.5" ry="11" fill="white"/>
+  <!-- Bug head -->
+  <circle cx="24" cy="13.5" r="4.2" fill="white"/>
+  <!-- Lock pin (cut through body in primary green) -->
+  <line x1="24" y1="18" x2="24" y2="34" stroke="#1F5A3C" stroke-width="2" stroke-linecap="round" opacity="0.85"/>
+  <circle cx="24" cy="22" r="1.5" fill="#1F5A3C" opacity="0.85"/>
+  <circle cx="24" cy="28" r="1.5" fill="#1F5A3C" opacity="0.85"/>
+</svg>

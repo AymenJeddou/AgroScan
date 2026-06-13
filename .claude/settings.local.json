@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"c:\\\\Users\\\\whotf\\\\OneDrive\\\\Bureau\\\\InsectDetectionProject\" -Directory)",
+      "Bash(Select-Object -ExpandProperty Name)",
+      "Bash(flutter analyze *)",
+      "Bash(flutter run *)",
+      "Bash(dir \"C:\\\\Users\\\\whotf\\\\OneDrive\\\\Bureau\\\\\" /b 2>&1)",
+      "Bash(python -c ' *)",
+      "Bash(python update_pests2.py)",
+      "PowerShell(Remove-Item \"c:\\\\Users\\\\whotf\\\\OneDrive\\\\Bureau\\\\InsectDetectionProject\\\\update_pests3.py\" -Confirm:$false)",
+      "PowerShell(Remove-Item \"c:\\\\Users\\\\whotf\\\\OneDrive\\\\Bureau\\\\InsectDetectionProject\\\\update_pests.py\" -ErrorAction SilentlyContinue -Confirm:$false)",
+      "PowerShell(Remove-Item \"c:\\\\Users\\\\whotf\\\\OneDrive\\\\Bureau\\\\InsectDetectionProject\\\\update_pests2.py\" -ErrorAction SilentlyContinue -Confirm:$false)",
+      "WebFetch(domain:commons.wikimedia.org)",
+      "WebFetch(domain:www.gbif.org)",
+      "WebFetch(domain:www.wikidata.org)",
+      "WebSearch",
+      "WebFetch(domain:www.inaturalist.org)",
+      "WebFetch(domain:api.inaturalist.org)",
+      "WebFetch(domain:inaturalist-open-data.s3.amazonaws.com)",
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\whotf\\\\Downloads\\\\PFE_dataset_insectes_Moez\")",
+      "Bash(Select-Object Name, PSIsContainer)",
+      "Bash(Format-Table -AutoSize)"
+    ]
+  }
+}

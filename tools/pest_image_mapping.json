@@ -1,0 +1,299 @@
+{
+  "aonidiella_aurantii": [
+    "assets/images/pests/aonidiella_aurantii/image_01.jpg",
+    "assets/images/pests/aonidiella_aurantii/image_02.jpg",
+    "assets/images/pests/aonidiella_aurantii/image_03.jpg",
+    "assets/images/pests/aonidiella_aurantii/image_04.jpg",
+    "assets/images/pests/aonidiella_aurantii/image_05.jpg"
+  ],
+  "bactrocera_oleae": [
+    "assets/images/pests/bactrocera_oleae/image_01.jpg",
+    "assets/images/pests/bactrocera_oleae/image_02.jpg",
+    "assets/images/pests/bactrocera_oleae/image_03.jpg",
+    "assets/images/pests/bactrocera_oleae/image_04.jpg",
+    "assets/images/pests/bactrocera_oleae/image_05.jpg"
+  ],
+  "cassida_vittata": [
+    "assets/images/pests/cassida_vittata/image_01.jpg",
+    "assets/images/pests/cassida_vittata/image_02.jpg",
+    "assets/images/pests/cassida_vittata/image_03.jpg",
+    "assets/images/pests/cassida_vittata/image_04.jpg",
+    "assets/images/pests/cassida_vittata/image_05.jpg"
+  ],
+  "ceratitis_capitata": [
+    "assets/images/pests/ceratitis_capitata/image_01.jpg",
+    "assets/images/pests/ceratitis_capitata/image_02.jpg",
+    "assets/images/pests/ceratitis_capitata/image_03.jpg",
+    "assets/images/pests/ceratitis_capitata/image_04.jpg",
+    "assets/images/pests/ceratitis_capitata/image_05.jpg"
+  ],
+  "cydia_pomonella": [
+    "assets/images/pests/cydia_pomonella/image_01.jpg",
+    "assets/images/pests/cydia_pomonella/image_02.jpg",
+    "assets/images/pests/cydia_pomonella/image_03.jpg",
+    "assets/images/pests/cydia_pomonella/image_04.jpg",
+    "assets/images/pests/cydia_pomonella/image_05.jpg",
+    "assets/images/pests/cydia_pomonella/image_06.jpg"
+  ],
+  "dactylopius_opuntiae": [
+    "assets/images/pests/dactylopius_opuntiae/image_01.jpg",
+    "assets/images/pests/dactylopius_opuntiae/image_02.jpg",
+    "assets/images/pests/dactylopius_opuntiae/image_03.jpg",
+    "assets/images/pests/dactylopius_opuntiae/image_04.jpg",
+    "assets/images/pests/dactylopius_opuntiae/image_05.jpg"
+  ],
+  "diocalandra_frumenti": [
+    "assets/images/pests/diocalandra_frumenti/image_01.jpg",
+    "assets/images/pests/diocalandra_frumenti/image_02.jpg",
+    "assets/images/pests/diocalandra_frumenti/image_03.jpg",
+    "assets/images/pests/diocalandra_frumenti/image_04.jpg",
+    "assets/images/pests/diocalandra_frumenti/image_05.jpg"
+  ],
+  "ectomyelois_ceratoniae": [
+    "assets/images/pests/ectomyelois_ceratoniae/image_01.jpg",
+    "assets/images/pests/ectomyelois_ceratoniae/image_02.jpg",
+    "assets/images/pests/ectomyelois_ceratoniae/image_03.jpg",
+    "assets/images/pests/ectomyelois_ceratoniae/image_04.jpg",
+    "assets/images/pests/ectomyelois_ceratoniae/image_05.jpg"
+  ],
+  "euphyllura_olivina": [
+    "assets/images/pests/euphyllura_olivina/image_01.jpg",
+    "assets/images/pests/euphyllura_olivina/image_02.jpg",
+    "assets/images/pests/euphyllura_olivina/image_03.jpg",
+    "assets/images/pests/euphyllura_olivina/image_04.jpg",
+    "assets/images/pests/euphyllura_olivina/image_05.jpg"
+  ],
+  "icerya_purchasi": [
+    "assets/images/pests/icerya_purchasi/image_01.jpg",
+    "assets/images/pests/icerya_purchasi/image_02.jpg",
+    "assets/images/pests/icerya_purchasi/image_03.jpg",
+    "assets/images/pests/icerya_purchasi/image_04.jpg",
+    "assets/images/pests/icerya_purchasi/image_05.jpg"
+  ],
+  "leptinotarsa_decemlineata": [
+    "assets/images/pests/leptinotarsa_decemlineata/image_01.jpg",
+    "assets/images/pests/leptinotarsa_decemlineata/image_02.jpg",
+    "assets/images/pests/leptinotarsa_decemlineata/image_03.jpg",
+    "assets/images/pests/leptinotarsa_decemlineata/image_04.jpg",
+    "assets/images/pests/leptinotarsa_decemlineata/image_05.jpg"
+  ],
+  "liriomyza_bryoniae": [
+    "assets/images/pests/liriomyza_bryoniae/image_01.jpg",
+    "assets/images/pests/liriomyza_bryoniae/image_02.jpg",
+    "assets/images/pests/liriomyza_bryoniae/image_03.jpg",
+    "assets/images/pests/liriomyza_bryoniae/image_04.jpg",
+    "assets/images/pests/liriomyza_bryoniae/image_05.jpg"
+  ],
+  "lobesia_botrana": [
+    "assets/images/pests/lobesia_botrana/image_01.jpg",
+    "assets/images/pests/lobesia_botrana/image_02.jpg",
+    "assets/images/pests/lobesia_botrana/image_03.jpg",
+    "assets/images/pests/lobesia_botrana/image_04.jpg",
+    "assets/images/pests/lobesia_botrana/image_05.jpg"
+  ],
+  "mayetiola_destructor": [
+    "assets/images/pests/mayetiola_destructor/image_01.jpg",
+    "assets/images/pests/mayetiola_destructor/image_02.jpg",
+    "assets/images/pests/mayetiola_destructor/image_03.jpg",
+    "assets/images/pests/mayetiola_destructor/image_04.jpg",
+    "assets/images/pests/mayetiola_destructor/image_05.jpg"
+  ],
+  "myzus_persicae": [
+    "assets/images/pests/myzus_persicae/image_01.jpg",
+    "assets/images/pests/myzus_persicae/image_02.jpg",
+    "assets/images/pests/myzus_persicae/image_03.jpg",
+    "assets/images/pests/myzus_persicae/image_04.jpg",
+    "assets/images/pests/myzus_persicae/image_05.jpg"
+  ],
+  "nezara_viridula": [
+    "assets/images/pests/nezara_viridula/image_01.jpg",
+    "assets/images/pests/nezara_viridula/image_02.jpg",
+    "assets/images/pests/nezara_viridula/image_03.jpg",
+    "assets/images/pests/nezara_viridula/image_04.jpg",
+    "assets/images/pests/nezara_viridula/image_05.jpg"
+  ],
+  "oryctes_agamemnon": [
+    "assets/images/pests/oryctes_agamemnon/image_01.jpg",
+    "assets/images/pests/oryctes_agamemnon/image_02.jpg",
+    "assets/images/pests/oryctes_agamemnon/image_03.jpg",
+    "assets/images/pests/oryctes_agamemnon/image_04.jpg",
+    "assets/images/pests/oryctes_agamemnon/image_05.jpg"
+  ],
+  "palpita_unionalis": [
+    "assets/images/pests/palpita_unionalis/image_01.jpg",
+    "assets/images/pests/palpita_unionalis/image_02.jpg",
+    "assets/images/pests/palpita_unionalis/image_03.jpg",
+    "assets/images/pests/palpita_unionalis/image_04.jpg",
+    "assets/images/pests/palpita_unionalis/image_05.jpg"
+  ],
+  "parlatoria_blanchardi": [
+    "assets/images/pests/parlatoria_blanchardi/image_01.jpg",
+    "assets/images/pests/parlatoria_blanchardi/image_02.jpg",
+    "assets/images/pests/parlatoria_blanchardi/image_03.jpg",
+    "assets/images/pests/parlatoria_blanchardi/image_04.jpg",
+    "assets/images/pests/parlatoria_blanchardi/image_05.jpg"
+  ],
+  "phloeotribus_scarabaeoides": [
+    "assets/images/pests/phloeotribus_scarabaeoides/image_01.jpg",
+    "assets/images/pests/phloeotribus_scarabaeoides/image_02.jpg",
+    "assets/images/pests/phloeotribus_scarabaeoides/image_03.jpg",
+    "assets/images/pests/phloeotribus_scarabaeoides/image_04.jpg",
+    "assets/images/pests/phloeotribus_scarabaeoides/image_05.jpg"
+  ],
+  "phthorimaea_operculella": [
+    "assets/images/pests/phthorimaea_operculella/image_01.jpg",
+    "assets/images/pests/phthorimaea_operculella/image_02.jpg",
+    "assets/images/pests/phthorimaea_operculella/image_03.jpg",
+    "assets/images/pests/phthorimaea_operculella/image_04.jpg",
+    "assets/images/pests/phthorimaea_operculella/image_05.jpg",
+    "assets/images/pests/phthorimaea_operculella/image_06.jpg"
+  ],
+  "planococcus_citri": [
+    "assets/images/pests/planococcus_citri/image_01.jpg",
+    "assets/images/pests/planococcus_citri/image_02.jpg",
+    "assets/images/pests/planococcus_citri/image_03.jpg",
+    "assets/images/pests/planococcus_citri/image_04.jpg",
+    "assets/images/pests/planococcus_citri/image_05.jpg",
+    "assets/images/pests/planococcus_citri/image_06.jpg"
+  ],
+  "prays_oleae": [
+    "assets/images/pests/prays_oleae/image_01.jpg",
+    "assets/images/pests/prays_oleae/image_02.jpg",
+    "assets/images/pests/prays_oleae/image_03.jpg",
+    "assets/images/pests/prays_oleae/image_04.jpg",
+    "assets/images/pests/prays_oleae/image_05.jpg",
+    "assets/images/pests/prays_oleae/image_06.jpg"
+  ],
+  "diaspidiotus_perniciosus": [
+    "assets/images/pests/diaspidiotus_perniciosus/image_01.jpg",
+    "assets/images/pests/diaspidiotus_perniciosus/image_02.jpg",
+    "assets/images/pests/diaspidiotus_perniciosus/image_03.jpg",
+    "assets/images/pests/diaspidiotus_perniciosus/image_04.jpg",
+    "assets/images/pests/diaspidiotus_perniciosus/image_05.jpg",
+    "assets/images/pests/diaspidiotus_perniciosus/image_06.jpg"
+  ],
+  "rhynchophorus_ferrugineus": [
+    "assets/images/pests/rhynchophorus_ferrugineus/image_01.jpg",
+    "assets/images/pests/rhynchophorus_ferrugineus/image_02.jpg",
+    "assets/images/pests/rhynchophorus_ferrugineus/image_03.jpg",
+    "assets/images/pests/rhynchophorus_ferrugineus/image_04.jpg",
+    "assets/images/pests/rhynchophorus_ferrugineus/image_05.jpg"
+  ],
+  "saissetia_oleae": [
+    "assets/images/pests/saissetia_oleae/image_01.jpg",
+    "assets/images/pests/saissetia_oleae/image_02.jpg",
+    "assets/images/pests/saissetia_oleae/image_03.jpg",
+    "assets/images/pests/saissetia_oleae/image_04.jpg",
+    "assets/images/pests/saissetia_oleae/image_05.jpg"
+  ],
+  "schizaphis_graminum": [
+    "assets/images/pests/schizaphis_graminum/image_01.jpg",
+    "assets/images/pests/schizaphis_graminum/image_02.jpg",
+    "assets/images/pests/schizaphis_graminum/image_03.jpg",
+    "assets/images/pests/schizaphis_graminum/image_04.jpg",
+    "assets/images/pests/schizaphis_graminum/image_05.jpg",
+    "assets/images/pests/schizaphis_graminum/image_06.jpg"
+  ],
+  "tetranychus_urticae": [
+    "assets/images/pests/tetranychus_urticae/image_01.jpg",
+    "assets/images/pests/tetranychus_urticae/image_02.jpg",
+    "assets/images/pests/tetranychus_urticae/image_03.jpg",
+    "assets/images/pests/tetranychus_urticae/image_04.jpg",
+    "assets/images/pests/tetranychus_urticae/image_05.jpg",
+    "assets/images/pests/tetranychus_urticae/image_06.jpg"
+  ],
+  "thrips_palmi": [
+    "assets/images/pests/thrips_palmi/image_01.jpg",
+    "assets/images/pests/thrips_palmi/image_02.jpg",
+    "assets/images/pests/thrips_palmi/image_03.jpg",
+    "assets/images/pests/thrips_palmi/image_04.jpg",
+    "assets/images/pests/thrips_palmi/image_05.jpg"
+  ],
+  "toxoptera_aurantii": [
+    "assets/images/pests/toxoptera_aurantii/image_01.jpg",
+    "assets/images/pests/toxoptera_aurantii/image_02.jpg",
+    "assets/images/pests/toxoptera_aurantii/image_03.jpg",
+    "assets/images/pests/toxoptera_aurantii/image_04.jpg",
+    "assets/images/pests/toxoptera_aurantii/image_05.jpg",
+    "assets/images/pests/toxoptera_aurantii/image_06.jpg"
+  ],
+  "trialeurodes_vaporariorum": [
+    "assets/images/pests/trialeurodes_vaporariorum/image_01.jpg",
+    "assets/images/pests/trialeurodes_vaporariorum/image_02.jpg",
+    "assets/images/pests/trialeurodes_vaporariorum/image_03.jpg",
+    "assets/images/pests/trialeurodes_vaporariorum/image_04.jpg",
+    "assets/images/pests/trialeurodes_vaporariorum/image_05.jpg",
+    "assets/images/pests/trialeurodes_vaporariorum/image_06.jpg"
+  ],
+  "bemisia_tabaci": [
+    "assets/images/pests/bemisia_tabaci/image_01.jpg",
+    "assets/images/pests/bemisia_tabaci/image_02.jpg",
+    "assets/images/pests/bemisia_tabaci/image_03.jpg",
+    "assets/images/pests/bemisia_tabaci/image_04.jpg",
+    "assets/images/pests/bemisia_tabaci/image_05.jpg",
+    "assets/images/pests/bemisia_tabaci/image_06.jpg"
+  ],
+  "aphis_gossypii": [
+    "assets/images/pests/aphis_gossypii/image_01.jpg",
+    "assets/images/pests/aphis_gossypii/image_02.jpg",
+    "assets/images/pests/aphis_gossypii/image_03.jpg",
+    "assets/images/pests/aphis_gossypii/image_04.jpg",
+    "assets/images/pests/aphis_gossypii/image_05.jpg",
+    "assets/images/pests/aphis_gossypii/image_06.jpg"
+  ],
+  "thrips_tabaci": [
+    "assets/images/pests/thrips_tabaci/image_01.jpg",
+    "assets/images/pests/thrips_tabaci/image_02.jpg",
+    "assets/images/pests/thrips_tabaci/image_03.jpg",
+    "assets/images/pests/thrips_tabaci/image_04.jpg",
+    "assets/images/pests/thrips_tabaci/image_05.jpg",
+    "assets/images/pests/thrips_tabaci/image_06.jpg"
+  ],
+  "spodoptera_littoralis": [
+    "assets/images/pests/spodoptera_littoralis/image_01.jpg",
+    "assets/images/pests/spodoptera_littoralis/image_02.jpg",
+    "assets/images/pests/spodoptera_littoralis/image_03.jpg",
+    "assets/images/pests/spodoptera_littoralis/image_04.jpg",
+    "assets/images/pests/spodoptera_littoralis/image_05.jpg",
+    "assets/images/pests/spodoptera_littoralis/image_06.jpg"
+  ],
+  "agrotis_ipsilon": [
+    "assets/images/pests/agrotis_ipsilon/image_01.jpg",
+    "assets/images/pests/agrotis_ipsilon/image_02.jpg",
+    "assets/images/pests/agrotis_ipsilon/image_03.jpg",
+    "assets/images/pests/agrotis_ipsilon/image_04.jpg",
+    "assets/images/pests/agrotis_ipsilon/image_05.jpg"
+  ],
+  "helicoverpa_armigera": [
+    "assets/images/pests/helicoverpa_armigera/image_01.jpg",
+    "assets/images/pests/helicoverpa_armigera/image_02.jpg",
+    "assets/images/pests/helicoverpa_armigera/image_03.jpg",
+    "assets/images/pests/helicoverpa_armigera/image_04.jpg",
+    "assets/images/pests/helicoverpa_armigera/image_05.jpg",
+    "assets/images/pests/helicoverpa_armigera/image_06.jpg"
+  ],
+  "liriomyza_trifolii": [
+    "assets/images/pests/liriomyza_trifolii/image_01.jpg",
+    "assets/images/pests/liriomyza_trifolii/image_02.jpg",
+    "assets/images/pests/liriomyza_trifolii/image_03.jpg",
+    "assets/images/pests/liriomyza_trifolii/image_04.jpg",
+    "assets/images/pests/liriomyza_trifolii/image_05.jpg",
+    "assets/images/pests/liriomyza_trifolii/image_06.jpg"
+  ],
+  "frankliniella_occidentalis": [
+    "assets/images/pests/frankliniella_occidentalis/image_01.jpg",
+    "assets/images/pests/frankliniella_occidentalis/image_02.jpg",
+    "assets/images/pests/frankliniella_occidentalis/image_03.jpg",
+    "assets/images/pests/frankliniella_occidentalis/image_04.jpg",
+    "assets/images/pests/frankliniella_occidentalis/image_05.jpg",
+    "assets/images/pests/frankliniella_occidentalis/image_06.jpg"
+  ],
+  "tuta_absoluta": [
+    "assets/images/pests/tuta_absoluta/image_01.jpg",
+    "assets/images/pests/tuta_absoluta/image_02.jpg",
+    "assets/images/pests/tuta_absoluta/image_03.jpg",
+    "assets/images/pests/tuta_absoluta/image_04.jpg",
+    "assets/images/pests/tuta_absoluta/image_05.jpg",
+    "assets/images/pests/tuta_absoluta/image_06.jpg"
+  ]
+}
