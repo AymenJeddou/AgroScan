@@ -5,7 +5,7 @@ adds local_images array for all images.
 import json
 from pathlib import Path
 
-ROOT = Path(r"C:\Users\whotf\OneDrive\Bureau\InsectDetectionProject")
+ROOT = Path(__file__).resolve().parent.parent
 PESTS_JSON = ROOT / "assets" / "data" / "pests.json"
 MAPPING_JSON = Path(__file__).parent / "pest_image_mapping.json"
 

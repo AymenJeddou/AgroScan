@@ -13,8 +13,9 @@ import shutil
 from pathlib import Path
 from PIL import Image
 
-DATASET = Path(r"C:\Users\whotf\Downloads\PFE_dataset_insectes_Moez")
-ASSETS_OUT = Path(r"C:\Users\whotf\OneDrive\Bureau\InsectDetectionProject\assets\images\pests")
+# Usage: python tools/compress_pest_images.py <dataset_folder>
+DATASET = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("dataset")
+ASSETS_OUT = Path(__file__).resolve().parent.parent / "assets" / "images" / "pests"
 MAX_DIM = 900
 JPEG_QUALITY = 72
 
