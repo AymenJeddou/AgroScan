@@ -49,7 +49,7 @@ Sois concis, professionnel et utile. Utilise des emojis quand cela aide la lisib
     });
 
     try {
-      final url = Uri.parse('$_baseUrl?key=${GeminiConfig.apiKey}');
+      final url = Uri.parse(_baseUrl);
 
       // Trim to the most recent turns to prevent unbounded context growth.
       final trimmed = _history.length > _maxHistoryTurns
@@ -58,7 +58,10 @@ Sois concis, professionnel et utile. Utilise des emojis quand cela aide la lisib
 
       final response = await http.post(
         url,
-        headers: {'Content-Type': 'application/json'},
+        headers: {
+          'Content-Type': 'application/json',
+          'x-goog-api-key': GeminiConfig.apiKey,
+        },
         body: jsonEncode({
           'system_instruction': {
             'parts': [{'text': _systemContext}],
