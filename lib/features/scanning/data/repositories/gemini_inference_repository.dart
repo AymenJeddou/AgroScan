@@ -82,7 +82,7 @@ class GeminiInferenceRepository implements AIInferenceRepository {
       final base64Image = base64Encode(bytes);
 
       final url = Uri.parse(
-        'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=$apiKey',
+        'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent',
       );
 
       final isUnrestricted = cropType == 'unknown' || cropType.isEmpty;
@@ -238,7 +238,8 @@ Rules:
 
       final response = await http.post(
         url,
-        headers: {'Content-Type': 'application/json'},
+        // Key in a header rather than the query string, so it never shows up in logged URLs
+        headers: {'Content-Type': 'application/json', 'x-goog-api-key': apiKey},
         body: jsonEncode({
           'contents': [
             {
