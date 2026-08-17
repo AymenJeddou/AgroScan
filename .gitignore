@@ -47,3 +47,5 @@ ios/Runner.xcworkspace/xcshareddata/
 ios/Runner.xcodeproj/project.xcworkspace/
 ios/Runner.xcodeproj/xcshareddata/
 ios/Runner.xcodeproj/xcuserdata/
+# Python
+__pycache__/

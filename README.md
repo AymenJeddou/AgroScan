@@ -60,6 +60,24 @@ Sortie : `build/app/outputs/flutter-apk/`
 À partager : **`app-arm64-v8a-release.apk`** (compatible avec la quasi-totalité
 des téléphones récents).
 
+## Synchronisation cloud (optionnelle)
+
+L'historique reste local par défaut. Pour activer la synchronisation Supabase,
+ajoutez à la commande `flutter run` / `flutter build` :
+
+```bash
+--dart-define=SUPABASE_URL=https://votre-projet.supabase.co --dart-define=SUPABASE_ANON_KEY=votre_cle_anon
+```
+
+Sans ces deux valeurs, Supabase n'est pas initialisé et l'application reste 100 % hors-ligne.
+
+## Outils (`tools/`)
+
+- `compress_pest_images.py <dossier_dataset>` : redimensionne et compresse les
+  photos du dataset vers `assets/images/pests/` (nécessite Pillow)
+- `patch_pests_json.py` : met à jour `assets/data/pests.json` avec les chemins
+  d'images générés (`pest_image_mapping.json`)
+
 ## Architecture & stack
 
 - **Clean Architecture**, structure par fonctionnalité (`feature-first`)
