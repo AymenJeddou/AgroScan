@@ -72,7 +72,7 @@ Sois concis, professionnel et utile. Utilise des emojis quand cela aide la lisib
             'maxOutputTokens': 1024,
           },
         }),
-      );
+      ).timeout(const Duration(seconds: 30));
 
       if (response.statusCode != 200) {
         throw Exception('Chatbot API error ${response.statusCode}: ${response.body}');
