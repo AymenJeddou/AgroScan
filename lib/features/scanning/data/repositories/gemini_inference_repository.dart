@@ -258,7 +258,7 @@ Rules:
             'responseMimeType': 'application/json',
           },
         }),
-      );
+      ).timeout(const Duration(seconds: 45));
 
       if (response.statusCode != 200) {
         throw Exception(
