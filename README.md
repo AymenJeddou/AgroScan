@@ -47,6 +47,14 @@ cp key.env.example key.env        # PowerShell : Copy-Item key.env.example key.e
 flutter run --dart-define=GEMINI_KEY=votre_vraie_cle
 ```
 
+## Tests
+
+```bash
+flutter test
+```
+
+Les tests utilisent `MockInferenceRepository` (aucune clé Gemini nécessaire).
+
 ## Construire un APK de test
 
 Le script lit la clé depuis `key.env`, génère des APK séparés par architecture
